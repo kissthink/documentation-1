@@ -13,6 +13,7 @@ ownCloud Server Configuration
    background_jobs_configuration   
    config_sample_php_parameters
    email_configuration
+   excluded_blacklisted_files
    external_sites
    js_css_asset_management_configuration
    knowledgebase_configuration

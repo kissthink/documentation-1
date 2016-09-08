@@ -1,4 +1,5 @@
 .. _nginx_configuration_example:
+
 Nginx Configuration
 ===================
 
